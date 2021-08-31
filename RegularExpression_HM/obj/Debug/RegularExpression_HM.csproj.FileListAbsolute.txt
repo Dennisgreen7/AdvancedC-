@@ -1,0 +1,7 @@
+C:\Dot.Net\C# Advanced\Shior6\RegularExpression_HM\bin\Debug\RegularExpression_HM.exe.config
+C:\Dot.Net\C# Advanced\Shior6\RegularExpression_HM\bin\Debug\RegularExpression_HM.exe
+C:\Dot.Net\C# Advanced\Shior6\RegularExpression_HM\bin\Debug\RegularExpression_HM.pdb
+C:\Dot.Net\C# Advanced\Shior6\RegularExpression_HM\obj\Debug\RegularExpression_HM.csprojAssemblyReference.cache
+C:\Dot.Net\C# Advanced\Shior6\RegularExpression_HM\obj\Debug\RegularExpression_HM.csproj.CoreCompileInputs.cache
+C:\Dot.Net\C# Advanced\Shior6\RegularExpression_HM\obj\Debug\RegularExpression_HM.exe
+C:\Dot.Net\C# Advanced\Shior6\RegularExpression_HM\obj\Debug\RegularExpression_HM.pdb
